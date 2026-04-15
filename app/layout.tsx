@@ -14,9 +14,9 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Varaa Villa | Premium Stay in Mysore",
+  title: "Varaa Villa Mysore | Private Villa with Pool & Terrace",
   description:
-    "Varaa Villa is a premium private villa stay in Mysore with pool, terrace, stylish interiors, fast Wi‑Fi and direct booking support.",
+    "Book Varaa Villa in Mysore – a premium private villa with indoor pool, terrace, modern amenities and direct WhatsApp booking for best prices.",
 };
 
 export default function RootLayout({

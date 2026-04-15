@@ -23,11 +23,11 @@ export function About() {
           </div>
           
           <p className="text-muted leading-[1.8] mb-4">
-            Varaa Villa blends bold architecture, tropical landscaping, calming sit-out decks and premium interiors to create a standout stay experience in Mysore. The property offers privacy, warm hospitality and thoughtful guest essentials for short leisure getaways.
+            Varaa Villa blends bold architecture, tropical landscaping and calming sit-out decks and premium interiors to create a standout stay experience in Mysore. The property offers privacy, warm hospitality and thoughtful guest essentials for short leisure getaways.
           </p>
           
           <p className="text-muted leading-[1.8] mb-8">
-            This draft website is built to support direct enquiries, WhatsApp-first conversion and portal discovery in one premium experience. Pricing and final logo can be added in the next revision once shared.
+            Enjoy a hassle-free booking experience with direct WhatsApp enquiries and real-time assistance. From your first message to final confirmation, everything is simple, quick and reliable.
           </p>
           
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-2">

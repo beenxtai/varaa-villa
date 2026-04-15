@@ -72,7 +72,8 @@ Preferred booking option: ${formData.portal}${formData.message ? `\nSpecial requ
           </div>
           
           <p className="text-muted leading-[1.7] mb-6 text-sm">
-            This form is designed for a direct-lead flow. For now, it sends a pre-filled WhatsApp enquiry to your number. In the next phase, it can be connected to email, CRM, Google Sheets, GoDaddy forms, or a booking engine.
+            Check availability and request your stay at Varaa Villa in seconds.<br />
+            Send your details on WhatsApp for quick confirmation, best pricing, and direct support from the host.
           </p>
           
           <form onSubmit={handleSubmit} className="grid grid-cols-1 sm:grid-cols-2 gap-[14px]">
@@ -186,8 +187,6 @@ Preferred booking option: ${formData.portal}${formData.message ? `\nSpecial requ
               </a>
             </div>
           </form>
-          
-          <p className="mt-4 text-[13px] text-[#d9c69b] dark:text-gold">Rates and logo placeholders can be added once shared.</p>
         </div>
 
         {/* Contact Info Panel */}
@@ -204,27 +203,25 @@ Preferred booking option: ${formData.portal}${formData.message ? `\nSpecial requ
               </div>
               
               <div className="p-[18px] rounded-[20px] bg-background border border-panel-border">
-                <small className="block text-muted mb-1 text-sm">Area</small>
-                <strong className="text-[18px] md:text-[22px] font-semibold text-foreground">Somanatha Nagar, Mysore</strong>
+                <small className="block text-muted mb-1 text-sm">Email</small>
+                <strong className="text-[18px] md:text-[22px] font-semibold text-foreground break-all">thashee@gmail.com</strong>
+              </div>
+              
+              <div className="p-[18px] rounded-[20px] bg-background border border-panel-border">
+                <small className="block text-muted mb-1 text-sm">Address</small>
+                <strong className="text-[16px] md:text-[18px] font-semibold text-foreground leading-snug block">23, Hebbal 2nd Stage, near Crescent Nagar, Kogilu, Mysuru, Karnataka 570016</strong>
               </div>
               
               <div className="p-[18px] rounded-[20px] bg-background border border-panel-border">
                 <small className="block text-muted mb-1 text-sm">Location help</small>
                 <a 
-                  href="https://www.google.com/maps/search/?api=1&query=Somanatha+Nagar+Mysore" 
+                  href="https://share.google/JF0ibGSduSCpGqpPT" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="font-semibold text-gold-light hover:underline"
                 >
                   Open in Google Maps
                 </a>
-              </div>
-              
-              <div className="p-[18px] rounded-[20px] bg-background border border-panel-border">
-                <small className="block text-muted mb-1 text-sm">Website note</small>
-                <span className="text-muted text-sm leading-[1.5] block">
-                  Final logo, rates, payment flow and exact map pin can be updated in the launch version.
-                </span>
               </div>
             </div>
           </div>

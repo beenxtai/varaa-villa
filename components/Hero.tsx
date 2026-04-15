@@ -5,7 +5,7 @@ export function Hero() {
   return (
     <header className="pt-8 pb-7">
       <div className="max-w-[1180px] mx-auto w-[calc(100%-32px)]">
-        <div className="min-h-[auto] sm:min-h-[78vh] rounded-[32px] overflow-hidden relative shadow-[0_18px_48px_rgba(0,0,0,0.32)] border border-white/10 bg-black flex flex-col group">
+        <div className="min-h-[auto] sm:min-h-[90vh] rounded-[32px] overflow-hidden relative shadow-[0_18px_48px_rgba(0,0,0,0.32)] border border-white/10 bg-black flex flex-col group">
           <div className="absolute inset-0">
             <Image 
               src="/images/Varaavilla-front-view.jpeg" 
@@ -20,7 +20,7 @@ export function Hero() {
           
           <div className="relative z-20 p-8 sm:p-16 max-w-[700px] flex flex-col justify-end flex-grow">
             <div className="inline-flex items-center gap-2.5 px-3.5 py-2.5 rounded-full bg-white/10 border border-white/10 w-max text-[#f7e6c4] text-sm font-medium backdrop-blur-sm mb-4">
-              Private Villa • Pool • Terrace • Mysore
+              4.5★ Rated Stay · Private Villa · Pool · Terrace · Mysore
             </div>
             
             <h2 className="font-serif text-[clamp(42px,6vw,76px)] leading-[0.95] my-4 tracking-[-0.03em] text-white">
@@ -28,7 +28,7 @@ export function Hero() {
             </h2>
             
             <p className="text-lg leading-relaxed text-[#d3dde6] max-w-[610px] mb-8">
-              Discover a premium villa experience with warm interiors, a private indoor pool, terrace sit-outs, stylish social spaces, fast Wi‑Fi and direct host assistance on WhatsApp.
+              Discover a premium villa experience with warm interiors, a private indoor pool, terrace sit-outs, stylish social spaces, fast Wi-Fi and direct host assistance on WhatsApp.
             </p>
             
             <div className="flex gap-3.5 flex-wrap">
@@ -48,12 +48,6 @@ export function Hero() {
                 WhatsApp Us
               </a>
               
-              <a 
-                href="#portals"
-                className="inline-flex items-center justify-center gap-2.5 px-6 py-3.5 rounded-full font-bold transition-transform hover:-translate-y-0.5 border border-gold-light/40 text-gold-light bg-white/5 backdrop-blur-sm hover:bg-white/10"
-              >
-                View Portals
-              </a>
             </div>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-3.5 mt-10">
@@ -62,15 +56,15 @@ export function Hero() {
                 <span className="text-[13px] text-[#c0ced8]">Ideal for families & friends</span>
               </div>
               <div className="p-4 sm:p-[18px] rounded-[20px] bg-white/10 border border-white/10 backdrop-blur-md">
-                <strong className="block text-[19px] mb-1 text-white">2 Bedrooms</strong>
+                <strong className="block text-[19px] mb-1 text-white">3 Bedrooms</strong>
                 <span className="text-[13px] text-[#c0ced8]">Comfortable premium stay</span>
               </div>
               <div className="p-4 sm:p-[18px] rounded-[20px] bg-white/10 border border-white/10 backdrop-blur-md">
-                <strong className="block text-[19px] mb-1 text-white">2 Baths</strong>
+                <strong className="block text-[19px] mb-1 text-white">3 Bathrooms</strong>
                 <span className="text-[13px] text-[#c0ced8]">Spacious setup</span>
               </div>
               <div className="p-4 sm:p-[18px] rounded-[20px] bg-white/10 border border-white/10 backdrop-blur-md">
-                <strong className="block text-[19px] mb-1 text-white">Indoor Pool</strong>
+                <strong className="block text-[19px] mb-1 text-white">Private Pool</strong>
                 <span className="text-[13px] text-[#c0ced8]">Private and available all year</span>
               </div>
             </div>

@@ -9,7 +9,7 @@ export function Gallery() {
             Villa gallery
           </h3>
           <p className="m-0 max-w-[560px] text-muted leading-[1.7]">
-            A curated visual story across the entrance, courtyard, pool, living spaces, bedrooms and terrace deck.
+            A curated visual story across the entrance, courtyard, pool, living spaces, bedrooms and terrace decks.
           </p>
         </div>
         
@@ -55,7 +55,7 @@ export function Gallery() {
           
           <div className="relative rounded-xl overflow-hidden min-h-[240px] border border-panel-border shadow-[0_18px_48px_rgba(0,0,0,0.32)] group">
             <Image 
-              src="/images/Varaavilla-Bedroom-2.jpeg" 
+              src="/images/Varaavilla-Bedroom-1.jpeg" 
               alt="Bedroom"
               fill
               className="object-cover transition-transform duration-500 group-hover:scale-105"
@@ -75,7 +75,7 @@ export function Gallery() {
               sizes="(max-width: 768px) 100vw, 30vw"
             />
             <span className="absolute left-3.5 bottom-3.5 px-3.5 py-2.5 rounded-full bg-[#081017]/75 backdrop-blur-md text-[13px] border border-white/10 text-white">
-              Terrace deck
+              Terrace garden
             </span>
           </div>
         </div>

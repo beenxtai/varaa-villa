@@ -10,7 +10,7 @@ export function Footer() {
               Varaa Villa
             </strong>
             <span className="text-sm leading-[1.6] block max-w-md">
-              Premium website draft prepared for direct booking, WhatsApp integration and portal discovery.
+              Book direct for the best rates, instant WhatsApp assistance, and a premium private villa experience in Mysore.
             </span>
           </div>
           

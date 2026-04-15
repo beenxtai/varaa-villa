@@ -7,7 +7,7 @@ export function Rules() {
             House rules & guest guidance
           </h3>
           <p className="m-0 max-w-[560px] text-muted leading-[1.7]">
-            Prepared in a clean website format using the currently visible Airbnb and MakeMyTrip rules, with room to add any extra custom rules later.
+            Find clear house rules and guest guidelines for a safe, comfortable, and hassle-free stay at Varaa Villa. Everything you need to know before booking your private villa stay in Mysore.
           </p>
         </div>
         
@@ -15,8 +15,8 @@ export function Rules() {
           <div className="p-5 rounded-[22px] bg-panel border border-panel-border shadow-sm">
             <h4 className="m-0 mb-2.5 font-semibold text-[18px] text-foreground">Stay basics</h4>
             <ul className="pl-[18px] m-0 list-disc marker:text-gold-light/60">
-              <li className="m-0 mb-2.5 text-muted leading-[1.6]">Check-in: 2:00 PM to 8:00 PM</li>
-              <li className="m-0 mb-2.5 text-muted leading-[1.6]">Checkout before 11:00 AM</li>
+              <li className="m-0 mb-2.5 text-muted leading-[1.6]">Check-in: 2:00 PM to 6:00 PM</li>
+              <li className="m-0 mb-2.5 text-muted leading-[1.6]">Check-out before 11:00 AM</li>
               <li className="m-0 mb-2.5 text-muted leading-[1.6]">Maximum occupancy: 6 guests</li>
               <li className="m-0 text-muted leading-[1.6]">Primary guest must be at least 18 years old</li>
             </ul>
@@ -35,10 +35,10 @@ export function Rules() {
           <div className="p-5 rounded-[22px] bg-panel border border-panel-border shadow-sm">
             <h4 className="m-0 mb-2.5 font-semibold text-[18px] text-foreground">Safety notes</h4>
             <ul className="pl-[18px] m-0 list-disc marker:text-gold-light/60">
-              <li className="m-0 mb-2.5 text-muted leading-[1.6]">Kids should be supervised due to steep steps in the property</li>
+              <li className="m-0 mb-2.5 text-muted leading-[1.6]">Kids should be supervised due to steps and open areas</li>
               <li className="m-0 mb-2.5 text-muted leading-[1.6]">Pool / hot tub area should be used carefully</li>
               <li className="m-0 mb-2.5 text-muted leading-[1.6]">CCTV cameras are installed at key exterior points for security</li>
-              <li className="m-0 text-muted leading-[1.6]">Smoke alarm and carbon monoxide alarm details should be reviewed before final launch copy</li>
+              <li className="m-0 text-muted leading-[1.6]">Extra caution is recommended for elderly guests</li>
             </ul>
           </div>
           
@@ -46,9 +46,9 @@ export function Rules() {
             <h4 className="m-0 mb-2.5 font-semibold text-[18px] text-foreground">Guest convenience</h4>
             <ul className="pl-[18px] m-0 list-disc marker:text-gold-light/60">
               <li className="m-0 mb-2.5 text-muted leading-[1.6]">Fast internet and OTT streaming setup available</li>
-              <li className="m-0 mb-2.5 text-muted leading-[1.6]">Complimentary breakfast mention can be enabled after your confirmation</li>
-              <li className="m-0 mb-2.5 text-muted leading-[1.6]">Food ordering / reheating support copy can be added in final version</li>
-              <li className="m-0 text-muted leading-[1.6]">Government ID and Aadhaar can be displayed as accepted ID proofs</li>
+              <li className="m-0 mb-2.5 text-muted leading-[1.6]">Complimentary breakfast may be enabled after confirmation</li>
+              <li className="m-0 mb-2.5 text-muted leading-[1.6]">Food ordering and on-call assistance available for a smoother and more comfortable stay</li>
+              <li className="m-0 text-muted leading-[1.6]">Government ID and Aadhaar required during check-in</li>
             </ul>
           </div>
         </div>

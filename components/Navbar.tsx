@@ -13,7 +13,7 @@ export function Navbar() {
           </div>
           <div>
             <h1 className="text-lg font-bold tracking-wide m-0 text-foreground">VARAA VILLA</h1>
-            <p className="text-sm text-muted m-0 mt-0.5">Premium private villa in Mysore</p>
+            <p className="text-sm text-muted m-0 mt-0.5">Premium villa with private pool in Mysore</p>
           </div>
         </div>
         
