@@ -52,7 +52,7 @@ export function Hero() {
             
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-3.5 mt-10">
               <div className="p-4 sm:p-[18px] rounded-[20px] bg-white/10 border border-white/10 backdrop-blur-md">
-                <strong className="block text-[19px] mb-1 text-white">6 Guests</strong>
+                <strong className="block text-[19px] mb-1 text-white">4 Guests</strong>
                 <span className="text-[13px] text-[#c0ced8]">Ideal for families & friends</span>
               </div>
               <div className="p-4 sm:p-[18px] rounded-[20px] bg-white/10 border border-white/10 backdrop-blur-md">
