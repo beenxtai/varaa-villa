@@ -17,7 +17,7 @@ export function Rules() {
             <ul className="pl-[18px] m-0 list-disc marker:text-gold-light/60">
               <li className="m-0 mb-2.5 text-muted leading-[1.6]">Check-in: 2:00 PM to 6:00 PM</li>
               <li className="m-0 mb-2.5 text-muted leading-[1.6]">Check-out before 11:00 AM</li>
-              <li className="m-0 mb-2.5 text-muted leading-[1.6]">Maximum occupancy: 6 guests</li>
+              <li className="m-0 mb-2.5 text-muted leading-[1.6]">Maximum occupancy: 4 guests</li>
               <li className="m-0 text-muted leading-[1.6]">Primary guest must be at least 18 years old</li>
             </ul>
           </div>

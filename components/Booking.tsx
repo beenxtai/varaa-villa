@@ -209,7 +209,7 @@ Preferred booking option: ${formData.portal}${formData.message ? `\nSpecial requ
               
               <div className="p-[18px] rounded-[20px] bg-background border border-panel-border">
                 <small className="block text-muted mb-1 text-sm">Address</small>
-                <strong className="text-[16px] md:text-[18px] font-semibold text-foreground leading-snug block">23, Hebbal 2nd Stage, near Crescent Nagar, Kogilu, Mysuru, Karnataka 570016</strong>
+                <strong className="text-[16px] md:text-[18px] font-semibold text-foreground leading-snug block">23, Block 25, 1st Cross Rd, Kergalli, Somanath Nagar, Bhogadi, Karnataka 570026</strong>
               </div>
               
               <div className="p-[18px] rounded-[20px] bg-background border border-panel-border">
